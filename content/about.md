@@ -1,0 +1,1 @@
+Starting to play with [Hugo](https://gohugo.io/getting-started/quick-start/) and figure out how the authoring and publishing flow works.
