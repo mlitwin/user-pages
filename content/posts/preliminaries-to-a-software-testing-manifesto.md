@@ -1,7 +1,7 @@
 ---
 title: "Preliminaries to a Software Testing Manifesto"
 date: 2020-02-23T18:06:42-08:00
-draft: true
+draft: false
 ---
 
 I'm not quite ready for a manifesto. Still gathering my own thoughts, and trying to understand software testing terminology and methodologies. But - feels like there is a fair amount of confusion about how it's supposed to work even in the best case.
