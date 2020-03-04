@@ -6,4 +6,5 @@ serve:
 
 .PHONY: deploy
 deploy:
+	rm -rf ./public/*
 	./deploy.sh
