@@ -2,6 +2,7 @@ baseURL = "https://mlitwin.github.io/"
 languageCode = "en-us"
 title = "Matthew Litwin's Personal Site"
 theme = "paperesque"
+enableGitInfo = true
 
 [[params.menu]]
   name = "about"
